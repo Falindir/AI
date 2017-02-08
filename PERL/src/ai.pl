@@ -1,1 +1,1 @@
-print ( "Hello Master Falindir\n" )
+print ( "Hello Master Falindir" )
